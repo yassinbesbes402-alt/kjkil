@@ -1,1 +1,0 @@
- <iframe src='https://player.viloud.tv/embed/channel/82ee1ddf3c8e59fa424ea7056e077aca?autoplay=0&volume=1&random=0&controls=1&title=1&share=1' width='640' height='360' frameborder='0' allow='autoplay' allowfullscreen></iframe>
